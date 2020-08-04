@@ -15,8 +15,4 @@ return [
         'action' => 'exitUser',
     ],
 
-    'feetback/show' => [
-        'controller' => 'feetback',
-        'action' => 'show',
-    ],
-];
+  ];
